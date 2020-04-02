@@ -1,7 +1,7 @@
 # Computational-Physics
 
 This repository hosts some exercise solutions of the 
-course 402-0809-00L [__Introduction to Computational Physics__](http://www.ifb.ethz.ch/education/bsc-courses/bsc-intro-comphys.html) during the Autumn semester 2017 at ETH Zurich.
+course 402-0809-00L [__Introduction to Computational Physics__](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?semkez=2017W&ansicht=ALLE&lerneinheitId=116481&lang=en) during the Autumn semester 2017 at ETH Zurich.
 
 **Contents**
 - **Exercise 01** : Implementing a Congruential Random Generator (CRNG)
